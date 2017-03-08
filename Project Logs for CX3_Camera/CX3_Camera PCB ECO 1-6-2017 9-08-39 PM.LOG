@@ -1,4 +1,0 @@
-Change Component Footprint: Designator=CN4 Old Footprint=HDR1X10 New Footprint=5034801000
-Change Component Footprint: Designator=CN5 Old Footprint=HDR1X10 New Footprint=5034801000
-Added Pin To Net: NetName=MIPI_DAT0_P Pin=U1-J5
-Added Room: Name=CX3_Camera
