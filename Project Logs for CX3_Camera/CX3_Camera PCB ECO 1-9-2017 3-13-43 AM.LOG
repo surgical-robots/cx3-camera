@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=VCC_1V2 Pin=U1-J5
+Change Net Name : Old Net Name=MIPI_DAT0_+ New Net Name=MIPI_D0_P
+Change Net Name : Old Net Name=MIPI_DAT0_- New Net Name=MIPI_D0_N
+Change Net Name : Old Net Name=MIPI_DAT1_+ New Net Name=MIPI_D1_P
+Change Net Name : Old Net Name=MIPI_DAT1_- New Net Name=MIPI_D1_N
+Added Differential Pair: Name=MIPI_D0
+Added Differential Pair: Name=MIPI_D1

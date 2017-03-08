@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=FB1 Old Footprint=0603 New Footprint=321608
+Added Pin To Net: NetName=MIPI_DAT0_P Pin=U1-J5

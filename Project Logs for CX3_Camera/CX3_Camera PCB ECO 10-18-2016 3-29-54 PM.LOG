@@ -1,0 +1,3 @@
+Added Component: Designator=P?(FH34SRJ-18S-0.5SH(50))
+Added Pin To Net: NetName=MIPI_DAT0_P Pin=U1-J5
+Added Member To Class: ClassName=CX3_Camera Member=Component P? Header 20

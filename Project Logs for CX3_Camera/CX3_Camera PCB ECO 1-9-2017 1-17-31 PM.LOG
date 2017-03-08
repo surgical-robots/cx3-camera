@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=CX3_GPIO44 Pin=CN5-9
+Removed Pin From Net: NetName=CX3_GPIO26 Pin=CN5-10
+Added Pin To Net: NetName=CX3_GPIO20 Pin=CN5-9
+Added Pin To Net: NetName=CX3_GPIO25 Pin=CN5-10

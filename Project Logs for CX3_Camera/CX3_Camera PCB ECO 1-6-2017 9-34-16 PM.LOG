@@ -1,0 +1,63 @@
+Removed Pin From Net: NetName=CLKM_CX3 Pin=R2-2
+Removed Pin From Net: NetName=MIPI_CAM_PWDN Pin=R3-2
+Removed Pin From Net: NetName=MIPI_CAM_RST Pin=R4-2
+Removed Member From Class: ClassName=CX3_Camera Member=R2
+Removed Member From Class: ClassName=CX3_Camera Member=R3
+Removed Member From Class: ClassName=CX3_Camera Member=R4
+Change Component Footprint: Designator=C2 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=C3 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=C4 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=C5 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=C6 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=C7 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=C8 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=C9 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=C10 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=C12 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=C14 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=C16 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=C17 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=C18 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=C19 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=C20 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=C21 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=C22 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=C23 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=C24 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=C25 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=C26 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=C28 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=C30 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=C31 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=C33 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=C34 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=C36 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=C40 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=C41 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=C44 Old Footprint=1608[0603] New Footprint=0402
+Change Component Footprint: Designator=R22 Old Footprint=J1-0603 New Footprint=2-0402
+Change Component Footprint: Designator=R1 Old Footprint=J1-0603 New Footprint=0402
+Change Component Footprint: Designator=R5 Old Footprint=J1-0603 New Footprint=0402
+Change Component Footprint: Designator=R6 Old Footprint=J1-0603 New Footprint=0402
+Change Component Footprint: Designator=R8 Old Footprint=J1-0603 New Footprint=0402
+Change Component Footprint: Designator=R12 Old Footprint=J1-0603 New Footprint=0402
+Change Component Footprint: Designator=R14 Old Footprint=J1-0603 New Footprint=0402
+Change Component Footprint: Designator=R15 Old Footprint=J1-0603 New Footprint=0402
+Change Component Footprint: Designator=R16 Old Footprint=J1-0603 New Footprint=0402
+Change Component Footprint: Designator=R17 Old Footprint=J1-0603 New Footprint=0402
+Change Component Footprint: Designator=R18 Old Footprint=J1-0603 New Footprint=0402
+Change Component Footprint: Designator=R19 Old Footprint=J1-0603 New Footprint=0402
+Change Component Footprint: Designator=R20 Old Footprint=J1-0603 New Footprint=0402
+Change Component Footprint: Designator=R21 Old Footprint=J1-0603 New Footprint=0402
+Change Component Footprint: Designator=R23 Old Footprint=J1-0603 New Footprint=0402
+Change Component Footprint: Designator=R24 Old Footprint=J1-0603 New Footprint=0402
+Change Component Footprint: Designator=R25 Old Footprint=J1-0603 New Footprint=0402
+Change Component Footprint: Designator=R26 Old Footprint=J1-0603 New Footprint=0402
+Change Component Footprint: Designator=R27 Old Footprint=J1-0603 New Footprint=0402
+Change Component Footprint: Designator=R28 Old Footprint=J1-0603 New Footprint=0402
+Change Component Footprint: Designator=R29 Old Footprint=J1-0603 New Footprint=0402
+Change Component Comment : Designator=C32 Old Comment=4.7uF New Comment=4.7uF 16V
+Added Pin To Net: NetName=MIPI_CAM_RST Pin=U1-F4
+Added Pin To Net: NetName=MIPI_CAM_PWDN Pin=U1-G2
+Added Pin To Net: NetName=CLKM_CX3 Pin=U1-G3
+Added Pin To Net: NetName=VCC_1V2 Pin=U1-J5

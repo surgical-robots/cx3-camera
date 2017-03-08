@@ -1,0 +1,5 @@
+Added Component: Designator=CN2(PJ-102B)
+Added Pin To Net: NetName=NetCN2_1 Pin=CN2-1
+Added Pin To Net: NetName=NetCN2_2 Pin=CN2-2
+Added Pin To Net: NetName=NetCN2_2 Pin=CN2-3
+Added Member To Class: ClassName=CX3_Camera Member=Component CN2 PJ-102B

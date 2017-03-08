@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=FB1 Old Footprint=321608 New Footprint=1608[0603]
+Added Pin To Net: NetName=VCC_1V2 Pin=U1-J5

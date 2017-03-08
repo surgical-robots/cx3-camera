@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=CN3 Old Footprint=20021521-00010T1LF New Footprint=FTSH-105-01-F-DV-K
+Change Component Footprint: Designator=CN6 Old Footprint=20021521-00010T1LF New Footprint=FTSH-105-01-F-DV-K
+Change Component Comment : Designator=CN3 Old Comment=20021521-00010T1LF New Comment=FTSH-105-01-F-DV-K
+Change Component Comment : Designator=CN6 Old Comment=20021521-00010T1LF New Comment=FTSH-105-01-F-DV-K
+Change Component Comment : Designator=CN4 Old Comment=Header 10 New Comment=5034801000
+Change Component Comment : Designator=CN5 Old Comment=Header 10 New Comment=5034801000
+Added Pin To Net: NetName=MIPI_DAT0_P Pin=U1-J5

@@ -1,0 +1,5 @@
+Removed Member From Class: ClassName=MIPI Member=MIPI_DAT2_N
+Removed Member From Class: ClassName=MIPI Member=MIPI_DAT2_P
+Removed Member From Class: ClassName=MIPI Member=MIPI_DAT3_N
+Removed Member From Class: ClassName=MIPI Member=MIPI_DAT3_P
+Added Pin To Net: NetName=MIPI_DAT0_P Pin=U1-J5

@@ -1,0 +1,13 @@
+Change Component DesignItemId : Designator=Y2 Old DesignItemId=OSCILATOR_32kHz New DesignItemId=OSCILLATOR
+Change Component Description : Designator=Y2 Old Description= New Description=SG-210STF 19.2000ML
+Added Component: Designator=C57(0402)
+Added Component: Designator=R30(0402)
+Added Pin To Net: NetName=GND Pin=C57-1
+Added Pin To Net: NetName=VCCIO_CLK Pin=C57-2
+Added Pin To Net: NetName=VCCIO_CLK Pin=R30-2
+Added Pin To Net: NetName=VCC_1V2 Pin=U1-J5
+Added Pin To Net: NetName=NetR30_1 Pin=R30-1
+Added Pin To Net: NetName=NetR30_1 Pin=Y2-1
+Added Net: Name=NetR30_1
+Added Member To Class: ClassName=CX3_Camera Member=Component C57 0.1uF
+Added Member To Class: ClassName=CX3_Camera Member=Component R30 10K

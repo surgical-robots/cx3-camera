@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=MIPI_DAT0_P Pin=U1-J5
+Added Differential Pair: Name=MIPI_DAT0
+Added Differential Pair: Name=MIPI_DAT1
+Added Differential Pair: Name=MIPI_DAT2
+Added Differential Pair: Name=MIPI_DAT3
